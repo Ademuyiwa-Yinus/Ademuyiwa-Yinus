@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Ademuyiwa Yinus 👋
 
-<!--
-**Ademuyiwa-Yinus/Ademuyiwa-Yinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring SOC Analyst | Splunk SIEM | Threat Detection | Log Analysis | Cybersecurity
 
-Here are some ideas to get you started:
+I am an aspiring Security Operations Center (SOC) Analyst with hands-on experience in security monitoring, log analysis, and threat investigation using Splunk Enterprise. I enjoy analyzing security events, investigating suspicious activities, and building dashboards that improve visibility into cyber threats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- Security Operations (SOC)
+- Splunk Enterprise
+- SIEM Monitoring
+- Log Analysis
+- Threat Detection
+- Incident Investigation
+- Windows Event Logs
+- Dashboard Development
+- SPL (Search Processing Language)
+- Cybersecurity Fundamentals
+
+## Tools
+
+- Splunk Enterprise
+- Kali Linux
+- Windows
+- Git & GitHub
+
+## Featured Project
+
+### Splunk MidnightSwap SOC Investigation
+
+Designed and implemented a SOC monitoring and threat investigation solution using Splunk Enterprise.
+
+Key activities included:
+
+- Security event monitoring
+- Log analysis
+- SPL query development
+- Dashboard creation
+- Threat investigation
+- Incident reporting
+
+Repository:
+
+👉 Splunk-MidnightSwap-Investigation
+
+## Connect with me
+
+LinkedIn:
+https://www.linkedin.com/in/ademuyiwa-yinus/
