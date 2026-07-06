@@ -1,6 +1,6 @@
 # Hi, I'm Ademuyiwa Yinus 👋
 
-## Aspiring SOC Analyst | Splunk SIEM | Threat Detection | Log Analysis | Cybersecurity
+## Entry-Level SOC Analyst | Splunk SIEM | Threat Detection | Log Analysis | Cybersecurity
 
 I am an aspiring Security Operations Center (SOC) Analyst with hands-on experience in security monitoring, log analysis, and threat investigation using Splunk Enterprise. I enjoy analyzing security events, investigating suspicious activities, and building dashboards that improve visibility into cyber threats.
 
